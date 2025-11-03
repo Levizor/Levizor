@@ -1,20 +1,18 @@
-Hi, I’m Levizor. 
+# Hi, I’m Levizor. 
 
 Full name: Lev Sauliak
 
-Studying for Bachelor degree in Polish Japanese Academy of Informational Technologies.
+Pursuing Bachelor degree in Polish Japanese Academy of Informational Technologies.
 
-Current interests: 
-  - Linux
-  - Vim
-  - Rust
-  - CLI
-  - Nix
+## Current interests: 
+  - Nix / NixOS
+  - Neovim / Nixvim
 
-Emails to reach me: 
+## Emails to reach me: 
 
-levizorri@gmail.com
-levizorri@protonmail.com
+- levizor@disroot.org
+- levizorri@gmail.com
+- levizorri@protonmail.com
 
 <!---
 Levizor/Levizor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
